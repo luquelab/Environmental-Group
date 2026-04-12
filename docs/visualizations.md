@@ -5,10 +5,18 @@ nav_order: 9
 
 # Visualizations
 
-This page shows example outputs from the project.
-
 ## Pairwise Sequence Similarity Heatmap
 
-This heatmap shows how similar the selected protein sequences are to each other.
+![Heatmap](heatmap.png)
 
-![Pairwise Sequence Similarity Heatmap](images/heatmap.png)
+## Dendrogram Based on Physicochemical Properties
+
+![Physicochemical Dendrogram](physicochemical-dendrogram.png)
+
+## Dendrogram Based on Sequence Similarity
+
+![Sequence Dendrogram](sequence-dendrogram.png)
+
+## Dendrogram Based on Combined Information
+
+![Combined Dendrogram](combined-dendrogram.png)
