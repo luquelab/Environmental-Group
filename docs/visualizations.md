@@ -7,8 +7,7 @@ nav_order: 9
 
 ## Example Sequence File
 
-[Download the FASTA file used for these results](https://raw.githubusercontent.com/luquelab/Environmental-Group/main/docs/mcra.fasta)
-
+[Download the FASTA file used for these results](https://raw.githubusercontent.com/luquelab/Environmental-Group/main/docs/docs/mcra.fasta)
 If you use this sequence file, you will get the results below.
 
 ## Pairwise Sequence Similarity Heatmap
