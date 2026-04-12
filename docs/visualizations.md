@@ -5,6 +5,12 @@ nav_order: 9
 
 # Visualizations
 
+## Example Sequence File
+
+[Download the FASTA file used for these results](../examples/mcra.fasta)
+
+If you use this sequence file, you will get the results below.
+
 ## Pairwise Sequence Similarity Heatmap
 
 ![Heatmap](heatmap.png)
