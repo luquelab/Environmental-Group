@@ -247,7 +247,6 @@ plt.tight_layout()
 plt.show()
 ```
 ## Combined Dendrogram
-
 ```python
 from sklearn.preprocessing import StandardScaler
 from scipy.spatial.distance import pdist, squareform
