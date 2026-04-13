@@ -5,10 +5,8 @@ nav_order: 3
 
 # Pipeline
 
-- upload FASTA file
-- read sequence data
-- fetch sequences if needed
-- calculate properties
-- compare sequences
-- generate plots
-- review results
+- [Upload FASTA file or fetch sequences](code.html#upload-fasta-file-or-fetch)
+- [Calculate properties](code.html#calculate-properties)
+- [Compare sequences](code.html#compare-sequences)
+- [Generate plots](code.html#generate-plots)
+- [Review results](results.html)
