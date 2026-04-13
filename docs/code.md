@@ -13,20 +13,4 @@ Main tasks in the code:
 - compare sequences
 - plot results
 
-## Example
-
-```python
-from Bio import SeqIO
-import pandas as pd
-
-records = list(SeqIO.parse("sample.fasta", "fasta"))
-
-protein_df = pd.DataFrame([
-    {
-        "ID": r.id,
-        "Description": r.description,
-        "Sequence": str(r.seq),
-        "Length": len(r.seq)
-    }
-    for r in records
-])
+[Run this notebook in Colab](https://colab.research.google.com/github/luquelab/Environmental-Group/blob/main/Bioinfo_fetch_FASTA.ipynb)
