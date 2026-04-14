@@ -25,3 +25,5 @@ If you use this sequence file, you will get the results below.
 ## Dendrogram Based on Combined Information
 
 ![Combined Dendrogram](combined-dendrogram.png)
+
+## Example from Wenyu's FASTA file
