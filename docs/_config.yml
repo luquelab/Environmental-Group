@@ -5,7 +5,3 @@ url: https://luquelab.github.io
 baseurl: /Environmental-Group
 search_enabled: true
 color_scheme: light
-
-just_the_docs:
-  custom_css:
-    - custom
