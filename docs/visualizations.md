@@ -46,3 +46,5 @@ If you use this sequence file, you will get the results below.
 ## Dendrogram Based on Combined Information
 
 ![Wenyu Combined Dendrogram](Combined%20Dendrogram-wenyu.png)
+
+## Example from Amin's FASTA file
