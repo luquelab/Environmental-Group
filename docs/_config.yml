@@ -1,7 +1,11 @@
-title: Environmental-Group
-description: Documentation site for the Environmental-Group project
+title: Environmental Group
+description: Documentation site for the Environmental Group project
 remote_theme: just-the-docs/just-the-docs
 url: https://luquelab.github.io
 baseurl: /Environmental-Group
 search_enabled: true
 color_scheme: light
+
+just_the_docs:
+  custom_css:
+    - custom
