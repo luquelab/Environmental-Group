@@ -15,7 +15,7 @@ Through this site, users can:
 - Compare the sequences
 - Visualize the results in a way that feels less overwhelming
 
-
+### Pipeline Steps
 
 - [Upload FASTA file or fetch sequences](code.html#upload-fasta-file-or-fetch)
 - [Calculate properties](code.html#calculate-properties)
