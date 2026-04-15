@@ -67,3 +67,24 @@ If you use this sequence file, you will get the results below.
 ## Dendrogram Based on Combined Information
 
 ![Amin Combined Dendrogram](Combined%20Dendrogram-Amin.png)
+
+## Example from Emma's FASTA file
+
+[Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Emma.fasta)
+If you use this sequence file, you will get the results below.
+
+## Pairwise Sequence Similarity Heatmap
+
+![Amin Heatmap](Heatmap-Emma.png)
+
+## Dendrogram Based on Physicochemical Properties
+
+![Amin Physicochemical Dendrogram](Physicochemical%20Dendrogram-Emma.png)
+
+## Dendrogram Based on Sequence Similarity
+
+![Amin Sequence Dendrogram](Sequence%20Dendrogram-Emma.png)
+
+## Dendrogram Based on Combined Information
+
+![Amin Combined Dendrogram](Combined%20Dendrogram-Emma.png)
