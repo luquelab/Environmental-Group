@@ -13,3 +13,5 @@ Here, users can explore biological sequence data, study important sequence prope
 - Learn bioinformatics in a simpler way
 
 Even if you do not know the terms yet, this website is built to help you start.
+
+[Run this notebook in Colab](https://colab.research.google.com/github/luquelab/Environmental-Group/blob/main/Bioinfo_fetch_FASTA.ipynb)
