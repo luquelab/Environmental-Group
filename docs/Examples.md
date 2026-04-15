@@ -1,9 +1,9 @@
 ---
-title: Visualizations
+title: Examples
 nav_order: 9
 ---
 
-# Visualizations
+# Examples
 
 ## Example from Mahdis's FASTA File
 
