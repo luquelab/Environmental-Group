@@ -7,7 +7,7 @@ nav_order: 9
 
 ## Example from Mahdis's FASTA File
 
-[Download the FASTA file used for these results](https://github.com/luquelab/Environmental-Group/blob/main/docs/mcrA.fasta?raw=1)
+[Download the FASTA file used for these results](https://github.com/luquelab/Environmental-Group/blob/main/docs/mcrA.fasta)
 If you use this sequence file, you will get the results below.
 
 ## Pairwise Sequence Similarity Heatmap
@@ -28,7 +28,7 @@ If you use this sequence file, you will get the results below.
 
 ## Example from Wenyu's FASTA file
 
-[Download Wenyu's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Wenyu_Norovirus_VP1_combined.fasta?raw=1)
+[Download Wenyu's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Wenyu_Norovirus_VP1_combined.fasta)
 If you use this sequence file, you will get the results below.
 
 ## Pairwise Sequence Similarity Heatmap
