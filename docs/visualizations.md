@@ -48,3 +48,22 @@ If you use this sequence file, you will get the results below.
 ![Wenyu Combined Dendrogram](Combined%20Dendrogram-wenyu.png)
 
 ## Example from Amin's FASTA file
+
+[Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Amin_m2_H1N1_H3N2.FASTA)
+If you use this sequence file, you will get the results below.
+
+## Pairwise Sequence Similarity Heatmap
+
+![Amin Heatmap](Heatmap-Amin.png)
+
+## Dendrogram Based on Physicochemical Properties
+
+![Amin Physicochemical Dendrogram](Physicochemical%20Dendrogram-Amin.png)
+
+## Dendrogram Based on Sequence Similarity
+
+![Amin Sequence Dendrogram](Sequence%20Dendrogram-Amin.png)
+
+## Dendrogram Based on Combined Information
+
+![Amin Combined Dendrogram](Combined%20Dendrogram-Amin.png)
