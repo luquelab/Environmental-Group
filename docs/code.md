@@ -1,9 +1,9 @@
 ---
-title: Code
+title: Code snippets
 nav_order: 8
 ---
 
-# Code
+# Code snippets
 
 [Run this notebook in Colab](https://colab.research.google.com/github/luquelab/Environmental-Group/blob/main/Bioinfo_fetch_FASTA.ipynb)
 
