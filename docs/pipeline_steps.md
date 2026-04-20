@@ -1,11 +1,7 @@
-
-
 ---
 title: Pipeline Steps
 nav_exclude: true
 ---
-
-# Pipeline Steps
 
 # Pipeline Steps
 
