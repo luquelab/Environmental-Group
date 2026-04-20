@@ -2,9 +2,10 @@
 
 ---
 title: Pipeline Steps
-parent: Pipeline Overview
-nav_order: 1
+nav_exclude: true
 ---
+
+# Pipeline Steps
 
 # Pipeline Steps
 
