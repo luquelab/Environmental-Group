@@ -8,7 +8,9 @@ nav_order: 9
 ## Example from Mahdis's FASTA File
 
 [Download the FASTA file used for these results](https://github.com/luquelab/Environmental-Group/blob/main/docs/mcrA.fasta)
+
 If you use this sequence file, you will get the results below.
+These are mcrA protein sequences from methanogens, microorganisms that generate methane. The mcrA gene is a key marker for methanogenesis.
 
 ## Pairwise Sequence Similarity Heatmap
 
@@ -29,6 +31,7 @@ If you use this sequence file, you will get the results below.
 ## Example from Wenyu's FASTA file
 
 [Download Wenyu's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Wenyu_Norovirus_VP1_combined.fasta)
+
 If you use this sequence file, you will get the results below.
 
 ## Pairwise Sequence Similarity Heatmap
@@ -50,6 +53,7 @@ If you use this sequence file, you will get the results below.
 ## Example from Amin's FASTA file
 
 [Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Amin_m2_H1N1_H3N2.FASTA)
+
 If you use this sequence file, you will get the results below.
 
 ## Pairwise Sequence Similarity Heatmap
@@ -71,6 +75,7 @@ If you use this sequence file, you will get the results below.
 ## Example from Emma's FASTA file
 
 [Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Emma.fasta)
+
 If you use this sequence file, you will get the results below.
 
 ## Pairwise Sequence Similarity Heatmap
