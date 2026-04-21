@@ -53,9 +53,11 @@ If you use this sequence file, you will get the results below.
 
 ## Example from Amin's FASTA file
 
+If you use this sequence file, you will get the results below.
+
 [Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Amin_m2_H1N1_H3N2.FASTA)
 
-If you use this sequence file, you will get the results below.
+This project focuses on the M2 protein of Influenza A virus, comparing H1N1 and H3N2 sequences using sequence-based and physicochemical analyses, followed by alignment and structural visualization. Amin chose M2 because it is small, structurally interesting, and biologically important. It acts as a proton channel during viral entry and uncoating, and its tetrameric arrangement makes it a good target for both sequence and structural analysis.
 
 ## Pairwise Sequence Similarity Heatmap
 
@@ -75,9 +77,11 @@ If you use this sequence file, you will get the results below.
 
 ## Example from Emma's FASTA file
 
+If you use this sequence file, you will get the results below.
+
 [Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Emma.fasta)
 
-If you use this sequence file, you will get the results below.
+Enterobacteria phage T7 sequences
 
 ## Pairwise Sequence Similarity Heatmap
 
