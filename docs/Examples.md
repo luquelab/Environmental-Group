@@ -7,9 +7,10 @@ nav_order: 9
 
 ## Example from Mahdis's FASTA File
 
+If you use this sequence file, you will get the results below.
+
 [Download the FASTA file used for these results](https://github.com/luquelab/Environmental-Group/blob/main/docs/mcrA.fasta)
 
-If you use this sequence file, you will get the results below.
 These are mcrA protein sequences from methanogens, microorganisms that generate methane. The mcrA gene is a key marker for methanogenesis.
 
 ## Pairwise Sequence Similarity Heatmap
