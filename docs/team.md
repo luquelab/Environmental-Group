@@ -18,6 +18,7 @@ Mahdis is a second-year PhD student in Mechanical Engineering with a strong rese
 
 ## Wenyu Chu
 
+Wenyu is a PhD student in Mechanical Engineering at the University of Miami. Her research focuses on the chemical analysis of seaweed and the detection of PFAS in environmental samples. She is particularly interested in using analytical and bioinformatics tools to better understand environmental contamination and chemical processes in natural systems. Through her work, she hopes to contribute to environmental monitoring and the development of more effective approaches for identifying harmful pollutants.
 
 ## Emma Romaine:
 
