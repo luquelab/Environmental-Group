@@ -31,9 +31,11 @@ These are mcrA protein sequences from methanogens, microorganisms that generate 
 
 ## Example from Wenyu's FASTA file
 
+If you use this sequence file, you will get the results below.
+
 [Download Wenyu's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Wenyu_Norovirus_VP1_combined.fasta)
 
-If you use this sequence file, you will get the results below.
+These are VP1 protein sequences from norovirus. VP1 is the major capsid protein and plays an important role in viral structure and classification. These sequences were used to compare sequence similarity and visualize clustering patterns among different norovirus samples.
 
 ## Pairwise Sequence Similarity Heatmap
 
