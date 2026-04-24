@@ -15,6 +15,7 @@ Mahdis is a second-year PhD student in Mechanical Engineering with a strong rese
 
 ## Amin Shirkhani
 
+Amin is a fourth-year Ph.D. student working at the intersection of environmental engineering, aerosol science, public health, and infectious disease. His research focuses on airborne transmission of bioaerosols in indoor environments, rapid point-of-care detection of respiratory viruses, and in vitro toxicity assessment of airborne particles using lung-cell exposure systems. He has successfully defended his Ph.D. thesis in Spring 2026.
 
 ## Wenyu Chu
 
