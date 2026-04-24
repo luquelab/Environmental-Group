@@ -14,7 +14,7 @@ The second example uses **norovirus protein sequences**. Norovirus is a highly c
 
 This example demonstrates how the same pipeline can be applied to viral protein sequences to generate comparable input-based analyses and visual outputs.
 
-## Example 3: Influenza A H1N1 & H3N2 - Amin 
+## Example 3: Influenza A H1N1 & H3N2 — Amin 
 
 This project uses M2 protein sequences from Influenza A viruses, including selected H1N1 and H3N2 strains. The M2 gene encodes matrix protein 2, a small membrane protein that functions as a proton channel and plays an important role in viral entry and uncoating.
 
