@@ -81,22 +81,22 @@ This project focuses on the M2 protein of Influenza A virus, comparing H1N1 and 
 
 If you use this sequence file, you will get the results below.
 
-[Download Amin's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Emma.fasta)
+[Download Emma's FASTA file](https://github.com/luquelab/Environmental-Group/blob/main/docs/Emma.fasta)
 
 Enterobacteria phage T7 sequences
 
 ## Pairwise Sequence Similarity Heatmap
 
-![Amin Heatmap](Heatmap-Emma.png)
+![Emma Heatmap](Heatmap-Emma.png)
 
 ## Dendrogram Based on Physicochemical Properties
 
-![Amin Physicochemical Dendrogram](Physicochemical%20Dendrogram-Emma.png)
+![Emma Physicochemical Dendrogram](Physicochemical%20Dendrogram-Emma.png)
 
 ## Dendrogram Based on Sequence Similarity
 
-![Amin Sequence Dendrogram](Sequence%20Dendrogram-Emma.png)
+![Emma Sequence Dendrogram](Sequence%20Dendrogram-Emma.png)
 
 ## Dendrogram Based on Combined Information
 
-![Amin Combined Dendrogram](Combined%20Dendrogram-Emma.png)
+![Emma Combined Dendrogram](Combined%20Dendrogram-Emma.png)
