@@ -17,3 +17,5 @@ Even if you do not know the terms yet, this website is built to help you start.
 [Run this notebook in Colab](https://colab.research.google.com/github/luquelab/Environmental-Group/blob/main/Bioinfo_fetch_FASTA.ipynb)
 
 [This is the link to GitHub Repo](https://github.com/luquelab/Environmental-Group)
+
+[Visit our GitHub Pages website](https://luquelab.github.io/Environmental-Group/)
